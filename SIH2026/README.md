@@ -63,11 +63,11 @@ A web-based concept prototype was developed by Team AgriNexus during the evaluat
 | Name | Role |
 |---|---|
 | Namit Maheshwari | Team Leader |
-| Ishaan Manohar | Team Member |
-| Yatharth Mehra | Team Member |
-| Tvisha Mamgain | Team Member |
-| Ashutosh Poddar| Team Member |
-| Pragyan Mehta  | Team Member |
+| Ishaan Manohar   | Team Member |
+| Yatharth Mehra   | Team Member |
+| Tvisha Mamgain   | Team Member |
+| Ashutosh Poddar. | Team Member |
+| Pragyan Mehta    | Team Member |
 
 ## Future Scope
 
