@@ -50,7 +50,7 @@ internal selection phase for Smart India Hackathon 2026.
 [View Presentation](./SIH2026-Presentation.pdf)
 
 
-### Round 2
+### Round 2 - Model Evaluation Phase
 
 A web-based concept prototype was developed by Team AgriNexus during the evaluation stage to demonstrate the proposed solution.
 
