@@ -47,14 +47,13 @@ The concept also includes transparent pricing, secure payment handling, and digi
 The presentation submitted by Team AgriNexus during the college-level
 internal selection phase for Smart India Hackathon 2026.
 
-[View Presentation](./SIH2026-Presentation.pdf)
-
+[View SIH 2026 Presentation](./Round-1-College-Selection/SIH2026-Presentation.pdf)
 
 ### Round 2 - National Level Evaluation Phase
 
 A web-based concept prototype was developed by Team AgriNexus during the evaluation stage to demonstrate the proposed solution.
 
-[View Prototype](./Round-2-State-Level/kisansetu-app.html)
+[View Prototype](./Round-2-National-Level-Evaluation/kisansetu-app.html)
 
 ## Team
 
