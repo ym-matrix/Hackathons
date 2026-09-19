@@ -53,7 +53,9 @@ internal selection phase for Smart India Hackathon 2026.
 
 A web-based concept prototype was developed by Team AgriNexus during the evaluation stage to demonstrate the proposed solution.
 
-[View Prototype](./Round-2-National-Level-Evaluation/kisansetu-app.html)
+[View Prototype Code](./Round-2-National-Level-Evaluation/kisansetu-app.html)
+
+[View Live KisanSetu Prototype](https://kisansetu-prototype.vercel.app/)
 
 ## Team
 
