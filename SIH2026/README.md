@@ -48,8 +48,10 @@ The concept also includes transparent pricing, secure payment handling, and digi
 The presentation submitted by Team AgriNexus during the college-level
 internal selection phase for Smart India Hackathon 2026.
 
-[View SIH 2026 Presentation](./Round-1-College-Selection/SIH2026-Presentation.pdf)
-[View SIH 2026 Presentation(Problem Statement-2)]((./Round-1-College-Selection/SIH26031-Presentation.pdf))
+## Problem Statements
+
+- [View SIH26033 Problem Statement](./Round-1-College-Selection/SIH26033-Presentation.pdf)
+- [View SIH26031 Problem Statement](./Round-1-College-Selection/SIH26031-Presentation.pdf)
 
 ### Round 2 - National Level Evaluation Phase
 
