@@ -1,4 +1,4 @@
-# SIH 2026 — Kisansetu-AI-AI
+# SIH 2026 — Kisansetu-AI
 
 ## About
 
